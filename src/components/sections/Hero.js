@@ -101,7 +101,7 @@ const Hero = ({
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">Non-Profit Government Organization</p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="#features">Introduction</Button>
+                  <Button tag="a" color="primary" wideMobile href="https://docs.google.com/presentation/d/1ytW0EvsJVVCPRMZz-jzy5vgS8m1ySFtG/edit?usp=sharing&ouid=102723768309896183767&rtpof=true&sd=true">Introduction</Button>
                 </ButtonGroup>
               </div>
             </div>
